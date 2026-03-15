@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LFZP_SMP.aternos.me:37786",
-    "port": 37786,
-    "version": "1.21.4",
+    "ip": "cascarudo.aternos.host:37786",
+    "port": ,
+    "version": "",
     "try-creative": false
   },
   "position": {
